@@ -1,7 +1,5 @@
 # Welcome to the Apple 15 Pro Website!
 
-![Apple 15 Pro](https://apple-website-clone-jjxrwlnze-thamirs-projects.vercel.app/assets/images/home_page.png)
-
 ### Project Overview:
 Welcome to the coolest slice of the internet where we celebrate the magnificence of the Apple 15 Pro! 📱💻 Get ready to be dazzled by cutting-edge technology and unparalleled design as we dive into the world of ReactJS, Vite, Tailwind CSS, GSAP, and even Three.js magic! 
 
