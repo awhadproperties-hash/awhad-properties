@@ -38,6 +38,11 @@ Welcome to the coolest slice of the internet where we celebrate the magnificence
 4. **Run the Project**: `$ npm run dev`
 5. **Open Your Browser**: Go to `http://localhost:3000` and behold the magic! 🎩✨
 
+
+### Project Live:
+
+You can access the hosted website [here](https://apple-website-clone-phi.vercel.app/).
+
 ### Contribution:
 
 - Contributions are more than welcome! Whether it's fixing a bug, adding a feature, or just sprinkling some more magic dust, feel free to jump in and contribute to this whimsical journey.
