@@ -39,9 +39,10 @@ Welcome to the coolest slice of the internet where we celebrate the magnificence
 5. **Open Your Browser**: Go to `http://localhost:3000` and behold the magic! 🎩✨
 
 
-### Project Live:
+### 🌐 Hosted Website:
 
-You can access the hosted website [here](https://apple-website-clone-phi.vercel.app/).
+Dive into the wonderland of Apple 15 Pro right now! 🚀 Explore the magic of cutting-edge technology and stunning design by visiting our hosted website [here](https://apple-website-clone-phi.vercel.app/). Get ready to be dazzled! 💫
+
 
 ### Contribution:
 
