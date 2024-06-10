@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+    <a href="https://apple-website-clone-phi.vercel.app/" target="_blank">
+      <img src="https://firebasestorage.googleapis.com/v0/b/mern-blog-aab8b.appspot.com/o/Screenshot%202024-06-10%20193203.png?alt=media&token=eaafc1a0-0e14-4a05-ae6e-31fc7955e064" alt="Project Banner">
     </a>
   <br />
 
