@@ -1,0 +1,40 @@
+name: Build & Deploy Vite App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Set BASE_URL automatically
+        id: set-base
+        run: |
+          if [ -f CNAME ]; then
+            echo "BASE_URL=/" >> $GITHUB_ENV
+          else
+            echo "BASE_URL=/awhad-properties/" >> $GITHUB_ENV
+          fi
+
+      - name: Build Vite App
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
