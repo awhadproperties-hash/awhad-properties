@@ -39,7 +39,11 @@ const Hero = () => {
 
           <a
             id="cta"
-            href="#highlights"
+            href="javascript:void(0)"
+            onClick={() => {
+              const section = document.getElementById("highlights");
+              section.scrollIntoView({ behavior: "smooth" });
+            }}
             className="btn px-6 py-3 bg-white text-black rounded-lg shadow-lg hover:bg-gray-200 transition"
           >
             Explore Now

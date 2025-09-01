@@ -8,6 +8,7 @@ import Acc_Project_032 from "/assets/images/Acc_Project_03.2.jpeg";
 import Com_Project_011 from "/assets/images/cap1.jpg";
 import Com_Project_012 from "/assets/images/cap2.jpg";
 import Com_Project_013 from "/assets/images/cap3.jpg";
+import Com_Project_014 from "/assets/images/cap4.jpg";
 
 
 import logo from "/assets/images/Awhad_logo.png";
@@ -19,6 +20,7 @@ export const homeImg = Home;
 export const CP011 = Com_Project_011;
 export const CP012 = Com_Project_012;
 export const CP013 = Com_Project_013;
+export const CP014 = Com_Project_014;
 
 export const AP01 = Acc_Project_01;
 export const AP021 = Acc_Project_021;

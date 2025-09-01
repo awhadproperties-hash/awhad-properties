@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { CP011, CP012, CP013 } from "../utils";
+import { CP011, CP012, CP013, CP014 } from "../utils";
 
 const properties = [
   {
@@ -7,7 +7,7 @@ const properties = [
     title: "Luxury Premium Gated Appartment",
     price: "₹85 Lakhs @ Anna Nagar",
     image: CP011,
-    link: "/details/villa",
+    // link: "/details/villa",
     details: "Less price More UDP, Gated community."
   },
   {
@@ -15,7 +15,7 @@ const properties = [
     title: "Luxury Premium Gated Appartment",
     price: "₹85 Lakhs @ Anna Nagar",
     image: CP012,
-    link: "/details/villa",
+    // link: "/details/villa",
     details: "Less price More UDP, Gated community."
   },
   {
@@ -23,9 +23,18 @@ const properties = [
     title: "Luxury Premium Gated Appartment",
     price: "₹85 Lakhs @ Anna Nagar",
     image: CP013,
-    link: "/details/villa",
+    // link: "/details/villa",
     details: "Less price More UDP, Gated community."
   },
+  {
+    id: 4,
+    title: "Luxury Premium Gated Appartment",
+    price: "₹85 Lakhs @ Anna Nagar",
+    image: CP014,
+    // link: "/details/villa",
+    details: "Less price More UDP, Gated community."
+  },
+
 ];
 
 const ImageSlider = () => {
