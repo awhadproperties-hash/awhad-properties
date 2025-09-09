@@ -148,19 +148,19 @@ const HowItWorks = () => {
           <div className="flex flex-col items-center w-full gap-3 mt-4">
             <a
               href="tel:+919384012300"
-              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100 transition g_fadeIn"
+              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100 "
             >
               (+91) 93840 12300
             </a>
             <a
               href="tel:+919384012301"
-              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100 transition g_fadeIn"
+              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100 "
             >
               (+91) 93840 12301
             </a>
             <a
               href="mailto:sales@awhadproperties.com"
-              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100 transition g_fadeIn break-words"
+              className="w-full sm:w-1/2 text-center px-6 py-3 bg-white text-[#1a1a1a] rounded-xl font-semibold shadow hover:bg-gray-100  break-words"
             >
               sales@awhadproperties.com
             </a>

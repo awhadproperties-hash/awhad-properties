@@ -1,18 +1,20 @@
 
-import Acc_Project_01 from "/assets/images/Acc_Project_01.jpeg";
-import Acc_Project_021 from "/assets/images/Acc_Project_02.1.jpeg";
-import Acc_Project_022 from "/assets/images/Acc_Project_02.2.jpeg";
-import Acc_Project_031 from "/assets/images/Acc_Project_03.1.jpeg";
-import Acc_Project_032 from "/assets/images/Acc_Project_03.2.jpeg";
+import Acc_Project_01 from "/assets/images/Acc_Project_01.webp";
 
-import Com_Project_011 from "/assets/images/cap1.jpg";
-import Com_Project_012 from "/assets/images/cap2.jpg";
-import Com_Project_013 from "/assets/images/cap3.jpg";
-import Com_Project_014 from "/assets/images/cap4.jpg";
+import Acc_Project_021 from "/assets/images/Acc_Project_02.1.webp";
+import Acc_Project_022 from "/assets/images/Acc_Project_02.2.webp";
+
+import Acc_Project_031 from "/assets/images/Acc_Project_03.1.webp";
+import Acc_Project_032 from "/assets/images/Acc_Project_03.2.webp";
+
+import Com_Project_011 from "/assets/images/cap1.webp";
+import Com_Project_012 from "/assets/images/cap2.webp";
+import Com_Project_013 from "/assets/images/cap3.webp";
+import Com_Project_014 from "/assets/images/cap4.webp";
 
 
-import logo from "/assets/images/Awhad_logo.png";
-import Home from "/assets/images/fontog.png";
+import logo from "/assets/images/Awhad_logo.webp";
+import Home from "/assets/images/home.webp";
 
 export const awhadLogo = logo;
 export const homeImg = Home;

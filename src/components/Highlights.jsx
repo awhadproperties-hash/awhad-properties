@@ -1,8 +1,5 @@
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
-//import React from "react";
-//import { rightImg, watchImg } from "../utils/index";
-//import VideoCarousel from "./VideoCarousel";
 import ImageSlider from "./ImageSlider";
 import Accomplished_Project_01 from "./Accomplished_Project_01"; 
 import Accomplished_Project_02 from "./Accomplished_Project_02"; 
