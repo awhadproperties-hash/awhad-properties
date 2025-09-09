@@ -1,0 +1,11 @@
+    <!-- Twitter Card
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Awhad Properties | Premium Homes & Commercial Spaces" />
+    <meta name="twitter:description" content="Premium apartments and commercial spaces in Mumbai by Awhad Properties." />
+    <meta name="twitter:image" content="https://www.awhadproperties.com/assets/images/Awhad_logo.webp" /> -->
+
+          <!-- "sameAs": [
+        "https://www.linkedin.com/company/your-linkedin",
+        "https://www.facebook.com/your-facebook",
+        "https://www.instagram.com/your-instagram"
+      ] -->
